@@ -1,0 +1,12 @@
+
+section {
+    background-color: rgb(158, 128, 187);
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(217, 229, 231, 0.1);
+}
+
+h2 {
+    color: #dfe9de;
+}
